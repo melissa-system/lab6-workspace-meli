@@ -4,7 +4,10 @@ Historia de usuario del Lab 8: inicio de sesión social en [[UNA Chat]] con Auth
 
 Created 2026-10-28
 
-## Current status (2026-10-28 20:45)
+## Current status (2026-10-28 21:45)
+- Terminada: login con Google funcionando en local, PR #1 unido a `main`, OpenSpec archivado (`2026-10-29-add-social-auth-auth0`). Vercel pospuesto.
+
+## Previous status (2026-10-28 20:45)
 - Implementada en `feat/us-01-auth0` (tareas 1–5.2 hechas). Falta: prueba manual con Google en local, `npm run snyk:test`, push de la rama, despliegue en Vercel + URLs en Auth0, evidencias, merge a `main` y `openspec archive`.
 
 ## Previous status

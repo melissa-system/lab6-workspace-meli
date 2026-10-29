@@ -2,16 +2,15 @@
 
 Snapshot vigente: foco, pendientes y en espera. Reescribir (no acumular) al final de cada sesión.
 
-Created 2026-10-28 · Updated 2026-10-28 20:45 CR
+Created 2026-10-28 · Updated 2026-10-28 21:45 CR
 
 ## Foco actual
-- Laboratorio 8 (para el curso es el lab 6): partes 1 y 2 listas (espacio de trabajo + brain). Parte 4: [[US-01 Auth0]] implementada en la rama `feat/us-01-auth0` del repo (pruebas en verde). Falta verificación real con Google, Vercel y cierre.
+- Lab 8 (lab 6 del curso): partes 1, 2 y 4 completas. [[US-01 Auth0]] en `main` (PR #1) y archivada en OpenSpec. Parte 3 no se hace.
 
 ## Pendientes
-- Meli: `npm install`, `npm start`, login con Google en local; correr las 3 suites + Snyk; `git push -u origin feat/us-01-auth0`.
-- Desplegar en Vercel, agregar URLs de Vercel en Auth0, evidencias local + Vercel.
-- Merge a `main` y `openspec archive add-social-auth-auth0`.
-- Parte 3 (rsc-harness) NO se hace (indicado por Meli).
+- Meli: `git push` en `Repos/lab5-paradigmas-meli` (commit de archivo) y en el espacio de trabajo.
+- Entregar el documento con links y evidencias.
+- Luego: Vercel (pospuesto) y rotar el Client Secret de Auth0.
 
 ## En espera de
-- Meli: prueba local con Google y cuenta de Vercel.
+- Nada de mi lado.
