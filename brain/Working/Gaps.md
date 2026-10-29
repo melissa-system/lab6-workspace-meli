@@ -8,3 +8,4 @@ Created 2026-10-28
 - URL del despliegue en Vercel.
 - Si Socket.IO funciona en Vercel o hay que usar long-polling / otro host para el tiempo real (inferido, por confirmar).
 - Fecha de entrega del Lab 8.
+- Rotar el Client Secret de Auth0 (quedó escrito en el chat el 2026-10-28) y actualizar `.env` + Vercel.
