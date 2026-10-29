@@ -10,4 +10,4 @@ Created 2026-10-28
 - **Copia de trabajo anterior del Lab 5:** `C:\Users\user\Downloads\648e22ff-4ccb-4b99-a0b1-9ecaa17fe655\despues` (mismo remoto).
 - **Local:** http://localhost:3000 (`npm start`).
 - **Vercel:** _pendiente_ (ver [[Gaps]]).
-- **Auth0 tenant:** _pendiente_. Secretos en `.env` / variables de Vercel, nunca aquí.
+- **Auth0:** dominio `dev-l4l5ztassftmswwx.us.auth0.com`, aplicación "UNA Chat" (Regular Web App), Client ID `aq3NNgQVJ2x1qaFQJSaG6cIlp7Zwc3`. Callback local `http://localhost:3000/callback`, logout `http://localhost:3000`. El Client Secret y `AUTH0_SECRET` viven en `Repos/lab5-paradigmas-meli/.env` y en Vercel, nunca aquí.

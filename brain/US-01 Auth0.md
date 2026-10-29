@@ -5,7 +5,16 @@ Historia de usuario del Lab 8: inicio de sesión social en [[UNA Chat]] con Auth
 Created 2026-10-28
 
 ## Current status (2026-10-28)
-- No iniciada. Se hará con OpenSpec dentro del repo (propuesta → diseño → specs → tareas → implementar → archivar).
+- Propuesta OpenSpec `add-social-auth-auth0` lista y validada en la rama `feat/us-01-auth0` (2026-10-28). Esperando aprobación de Meli para implementar.
+
+## Decisiones (propuesta)
+- `express-openid-connect`, sesión en cookie cifrada (sirve en Vercel).
+- `/` muestra `login.html` sin sesión; handshake de Socket.IO protegido; el servidor asigna el remitente desde la identidad.
+- Errores de login mapeados a códigos fijos (`cancelled`/`failed`) → mensaje en español + Reintentar.
+- `createServer({ auth })` para pruebas con auth falsa; E2E con servidor de prueba.
+
+## Previous status
+- No iniciada.
 
 ## Criterios de aceptación (resumen)
 1. Cuenta Auth0 personal + aplicación UNA Chat.
