@@ -9,7 +9,7 @@ cd my-team-workspace
 code Workspace.code-workspace
 ```
 
-This copy stays local. There is no remote yet.
+Remote: https://github.com/melissa-system/lab6-workspace-meli
 
 Then:
 1. Edit `AGENTS.md` with your team's specifics
