@@ -1,0 +1,5 @@
+{
+  "servers": {
+    // Add the MCP servers this workspace should use.
+  }
+}
