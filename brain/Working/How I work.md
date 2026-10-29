@@ -10,3 +10,4 @@ Created 2026-10-28
 - La parte 3 del Lab 8 (rsc-harness) no se hace; la parte 4 se hace con OpenSpec. (2026-10-28)
 - El espacio de trabajo SÍ tiene remoto (`lab6-workspace-meli`) por pedido de Meli; ella hace el push. Esto reemplaza la regla "no agregar remoto" de las instrucciones del brain. (2026-10-28)
 - Meli ejecuta en su terminal de VS Code lo que necesite su sesión (npm install, logins, git push). (2026-10-28)
+- Vercel (criterio 7 de US-01) pospuesto por decisión de Meli: el profe no lo pide para la entrega. (2026-10-28)
